@@ -1,7 +1,7 @@
 ## Olá! Sou Raissa Marques, Pedagoga | Desenvolvedora
 
 <div align="center">
-  <a href="https://github.com/alefecruz">
+  <a href="https://github.com/Raissatkm">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Raissatkm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Raissatkm&layout=compact&langs_count=7&theme=dracula"/>
 </div>
